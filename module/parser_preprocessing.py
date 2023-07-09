@@ -1,9 +1,9 @@
 import json
 import sqlite3
 from nltk import word_tokenize
-# from process_sql import tokenize
+from process_sql import tokenize
 
-from test_module.process_sql import tokenize
+# from test_module.process_sql import tokenize
 
 # import nltk
 # nltk.download('punkt')
